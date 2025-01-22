@@ -24,6 +24,7 @@ export default function Footer() {
                              className={styles.titleContainer}>
                             <h3 className={styles.title}>Business</h3>
                             <IoIosArrowDown className={styles.icon}/>
+                        all ok
                         </div>
 
                         <ul className={`${openMenu && styles.activeList} ${styles.list}`}>
