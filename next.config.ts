@@ -18,6 +18,7 @@ const nextConfig: NextConfig = {
     env: {
         API_URL: process.env.API_URL,
         DB_URL:process.env.DB_URL,
+        CI:process.env.CI,
     },
 
 };
